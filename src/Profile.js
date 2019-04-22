@@ -9,7 +9,7 @@ class Profile extends Component {
 
   render() {
     return (
-        <img src="shino.png"></img>
+        <img src="aburameshino.png"></img>
     );
   }   
 } 
