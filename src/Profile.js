@@ -9,7 +9,7 @@ class Profile extends Component {
 
   render() {
     return (
-        <img src="aburameshino.png"></img>
+        <img src="shino.png" width="240" height="320"></img>
     );
   }   
 } 
