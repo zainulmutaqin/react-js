@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Profile from './Profile.js';
 
 class App extends Component {
   constructor(props){
@@ -118,6 +119,7 @@ renderHasil(){
     }
     else if(name == 'Profile'){
       //display menu profile
+      return <Profile/>
 
     }
     else{
