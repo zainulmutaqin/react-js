@@ -10,7 +10,7 @@ class Profile extends Component {
   render() {
     return (
       <div>
-        <h2>{this.props.nama}</h2>
+        <h1>{this.props.nama}</h1>
         <img src="sandy.png"></img>
       </div>
     );
