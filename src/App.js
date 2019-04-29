@@ -65,7 +65,7 @@ class App extends Component {
       //display default
       return(
       <div>
-      I'am <span className={"selected "+this.state.color}>{this.state.name}</span>
+      Saya <span className={"selected "+this.state.color}>{this.state.name}</span>
             <br></br>
           <br></br>
           <img src={this.state.img} width="240" ></img>
